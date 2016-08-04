@@ -1,0 +1,27 @@
+_repo: Dot-and-the-Kangaroo_3703
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pedley, Ethel C.
+    birthdate: 1859
+    deathdate: 1898
+    gutenberg_agent_id: '1273'
+    url: http://www.gutenberg.org/2009/agents/1273
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_Pedley
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kangaroos -- Juvenile fiction'
+- !lcsh 'Animals -- Australia -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Dot and the Kangaroo
+url: http://www.gutenberg.org/ebooks/3703
